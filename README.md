@@ -70,6 +70,7 @@ python final_detection.py
 Press 'q' to safely exit the video stream window.
 
 🤝 Author & Contributions
-Developed with a focus on stable machine learning deployment pipelines by [Syed Alvi (alvi164)](https://github.com/alvi164)
+Developed with a focus on stable machine learning deployment pipelines by [Syed Alvi (alvi164)](https://github.com/alvi164).
+
 Feel free to open issues or submit Pull Requests to optimize the network layers or extend detection metrics!
 ```text
