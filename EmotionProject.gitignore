@@ -1,0 +1,18 @@
+# Virtual Environments
+emotion_env/
+env/
+venv/
+.venv/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Heavy weights files (DeepFace handles its own downloads; don't push these to Git)
+*.h5
+*.pkl
+*.weights
+
+# Local IDE configurations
+.vscode/
+.idea/
